@@ -1,0 +1,15 @@
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\net6.0\UnitTestingDemo.exe
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\net6.0\UnitTestingDemo.deps.json
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\net6.0\UnitTestingDemo.runtimeconfig.json
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\net6.0\UnitTestingDemo.dll
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\bin\Debug\net6.0\UnitTestingDemo.pdb
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.csproj.AssemblyReference.cache
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.AssemblyInfoInputs.cache
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.AssemblyInfo.cs
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.csproj.CoreCompileInputs.cache
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.dll
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\refint\UnitTestingDemo.dll
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.pdb
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\UnitTestingDemo.genruntimeconfig.cache
+C:\Users\aarthi.s\source\repos\UnitTestingDemo\UnitTestingDemo\obj\Debug\net6.0\ref\UnitTestingDemo.dll
